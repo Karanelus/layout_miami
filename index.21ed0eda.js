@@ -1,0 +1,2 @@
+var e=document.querySelector(".navigation__item--burger-menu"),t=document.querySelector(".burger-menu");e.addEventListener("click",function(){t.classList.toggle("burger-menu--active"),e.classList.toggle("navigation__item--burger-menu--active"),t.classList.contains("burger-menu--active")?document.body.style.overflow="hidden":document.body.style.overflow="auto"});
+//# sourceMappingURL=index.21ed0eda.js.map
